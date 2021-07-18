@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p align="left">
    <a href="https://www.linkedin.com/in/oussamaennachite/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamaennachite" height="30" width="40" /></a>
    &emsp;
-   <a href="https://www.kaggle.com/oussamaennachite" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oussamaennachite" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="left">Languages and Tools</h2>
