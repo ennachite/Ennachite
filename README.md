@@ -70,8 +70,8 @@ Here are some ideas to get you started:
        <li>
         <h3 align="left">Others:</h3>
         <p>
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <a href="https://www.w3schools.com/c/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         </a>
         &emsp;
         <a href="https://git-scm.com/" target="_blank">
