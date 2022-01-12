@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h2 align="left">Github Stats</h2>
 <p>
    
-![Ennachite's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ennachite&show_icons=true&theme=radical)
+![Ennachite's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ennachite&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennachite&layout=compact&langs_count=6&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/ennachite/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennachite&layout=compact)](https://github.com/ennachite/github-readme-stats)
    
 </p>
 <br>
