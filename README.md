@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Oussama ENNACHITE</h1>
 
+<h3 align="center">Web Engineering & Mobile Computing Student and a Fintech Enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
+
 Here are some ideas to get you started:
 
 -  I’m currently learning **Web Dev**
+
+-  I’m currently learning **Machine Learning**
 
 -  How to reach me **ennachiteoussama@gmail.com**
  
