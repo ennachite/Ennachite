@@ -18,7 +18,12 @@ Here are some ideas to get you started:
    
 ![Ennachite's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ennachite&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennachite&layout=compact)](https://github.com/ennachite/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennachite&layout=compact&langs_count=8&title_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/ennachite/github-readme-stats)
+ 
+<a href="https://github.com/ennachite/Ennachite">
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Oussama Ennachite's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ennachite&theme=black-ice&hide_border=true&stroke=0000&background=151515"/>
+</a>
+
    
 </p>
 <br>
