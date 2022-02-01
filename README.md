@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <h2 align="left">Languages and Tools</h2>
 <ul>
     <li>
-        <h3 align="left">Web Development:</h3>
-        <p align="left">
+        <h3 align="left">Frontend Technologies:</h3>
+        <div>
             <a href="https://www.w3.org/html/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
             </a>
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
             &emsp;
             <a href="https://getbootstrap.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://tailwindcss.com/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
             </a>
             &emsp;
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -57,8 +61,11 @@ Here are some ideas to get you started:
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
             </a>
             &emsp;
-         </p>
-         <p>
+         </div>
+      </li>
+      <li>
+         <h3>Backend Technologies:</h3>
+         <div>
             <a href="https://www.php.net" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
             </a>
@@ -67,26 +74,58 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
             </a>
             &emsp;
+            <a href="https://docs.oracle.com/en/java/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="80" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://jakarta.ee/" target="_blank">
+            <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="Java EE" width="100" height="30"/>
+            </a>
+            <a href="https://spring.io/" target="_blank">
+            <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="100" height="30"/>
+            </a>
+            &emsp;
+            <a href="https://nodejs.org/" target="_blank">
+            <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="65" height="40"/>
+            </a>
+         </div>
+      </li>
+      <li>
+         <h3>Databases:</h3>
+         <div>
             <a href="https://www.mysql.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             </a>
-         </p>
-    </li>
-       <li>
-        <h3 align="left">Others:</h3>
-        <p>
-        <a href="https://www.w3schools.com/c/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a>
-        &emsp;
-        <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
-        &emsp;
-        <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        </a>
-        &emsp;
-        </p>
-    </li>
+            &emsp;
+            <a href="https://www.postgresql.org/" target="_blank">
+            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank">
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://docs.mongodb.com/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" alt="MongoDB" width="110" height="30"/>
+            </a>
+            &emsp;
+         </div>
+      </li>
+      <li>
+         <h3>Others:</h3>
+         <div>
+            <a href="https://www.w3schools.com/c/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://git-scm.com/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://www.linux.org/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+            </a>
+            &emsp;
+         </div>
+      </li>
 </ul>
