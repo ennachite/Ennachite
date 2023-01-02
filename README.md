@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
 
-Here are some ideas to get you started:
+I'm a recent graduate in web engineering with a passion for using technology to solve real-world problems. I'm currently studying signal processing and AI and am particularly interested in data engineering and cloud technologies. My goal is to use my skills and knowledge to develop innovative solutions in these fields. On my GitHub profile, you'll find a collection of my projects and code samples that showcase my abilities and interests.
 
--  I’m currently learning **Web Dev**
-
--  I’m currently learning **Machine Learning**
-
--  How to reach me **ennachiteoussama@gmail.com**
+-  How to reach me **oussama.ennachite@grenoble-inp.org**
  
 <br>
 <h2 align="left">Github Stats</h2>
