@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Ennachite</h1>
 
-<h3 align="center">Web Engineering & Mobile Computing Student and a Fintech Enthusiast</h3>
+<h3 align="center">Software Engineering Student and DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
 
