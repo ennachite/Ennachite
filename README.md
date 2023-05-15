@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Oussama Ennachite</h1>
 
-<h3 align="center">Software Engineering Student and DevOps Enthusiast</h3>
+<h3 align="center">Software Engineering Student | DevOps Enthusiast | Software Engineering Intern at NXP Semiconductors</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
 
-I'm a recent graduate in web engineering with a passion for using technology to solve real-world problems. I'm currently studying signal processing and AI and am particularly interested in data engineering and cloud technologies. My goal is to use my skills and knowledge to develop innovative solutions in these fields. On my GitHub profile, you'll find a collection of my projects and code samples that showcase my abilities and interests.
+🚀 Passionate about leveraging technology to solve real-world challenges! As a recent graduate in web engineering, I constantly seek opportunities to push the boundaries of innovation. Currently focusing on signal processing and AI, I am captivated by the fascinating world of data engineering and cloud technologies.
 
--  How to reach me **oussama.ennachite@grenoble-inp.org**
+💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.
+
+🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.
+
+✉️ Feel free to reach out to me at oussama.ennachite@grenoble-inp.org. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!
  
 <br>
 <h2 align="left">Github Stats</h2>
