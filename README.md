@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Ennachite</h1>
 
-<h3 align="center">Software Engineering Student | DevOps Enthusiast | Software Engineering Intern at NXP Semiconductors</h3>
+<h3 align="center">Software Engineer at Harvest Groupe | DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
 
@@ -10,7 +10,7 @@
 
 🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.
 
-✉️ Feel free to reach out to me at oussama.ennachite@grenoble-inp.org. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!
+✉️ Feel free to reach out to me at ennachiteoussama@gmail.com. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!
  
 <br>
 <h2 align="left">Github Stats</h2>
