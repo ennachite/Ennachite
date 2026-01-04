@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer at Harvest Groupe | DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&label=Profile%20views&color=e42a28&style=flat" alt="ennachite" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&style=for-the-badge&color=0e75b6" alt="ennachite" /> </p>
 
 🚀 Passionate about leveraging technology to solve real-world challenges! As a recent graduate in web engineering, I constantly seek opportunities to push the boundaries of innovation. Currently focusing on signal processing and AI, I am captivated by the fascinating world of data engineering and cloud technologies.
 
