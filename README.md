@@ -61,11 +61,11 @@ I also use Apache Airflow, Spark, ArgoCD, SonarQube, Dependency-Track, Keycloak,
 ## GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/ennachite/Ennachite/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 </p>
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit languages" />
+  <img height="170" src="https://raw.githubusercontent.com/ennachite/Ennachite/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img height="170" src="https://raw.githubusercontent.com/ennachite/Ennachite/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ennachite&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
