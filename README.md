@@ -1,160 +1,72 @@
-<h1 align="center">Hi 👋, I'm Oussama Ennachite</h1>
+<h1 align="center">Hi, I'm Oussama Ennachite</h1>
+<h3 align="center">Software Engineer in Paris, working on fintech, cloud and DevOps</h3>
 
-<h3 align="center">Software Engineer at Harvest Groupe | DevOps Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennachite&style=for-the-badge&color=0e75b6" alt="ennachite" /> </p>
-
-🚀 Passionate about leveraging technology to solve real-world challenges! As a recent graduate in web engineering, I constantly seek opportunities to push the boundaries of innovation. Currently focusing on signal processing and AI, I am captivated by the fascinating world of data engineering and cloud technologies.
-
-💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.
-
-🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.
-
-✉️ Feel free to reach out to me at ennachiteoussama@gmail.com. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!
- 
-<br>
-<h2 align="left">Github Stats</h2>
-<p>
-   
-![Ennachite's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=ennachite&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ennachite&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/ennachite/github-readme-stats)
- 
-   
+<p align="center">
+  <a href="https://www.linkedin.com/in/oussamaennachite/"><img src="https://img.shields.io/badge/LinkedIn-oussamaennachite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ennachiteoussama@gmail.com"><img src="https://img.shields.io/badge/Email-ennachiteoussama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ennachite&style=for-the-badge&color=0e75b6&label=Profile+views" alt="Profile views" />
 </p>
-<br>
-<h2 align="left">Connect with me</h2>
-<p align="left">
-   <a href="https://www.linkedin.com/in/oussamaennachite/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamaennachite" height="30" width="40" /></a>
-   &emsp;
+
+## About me
+
+I've spent the last three years building and securing software for banks and insurance companies. Most of my work is on the back end with Java and Spring Boot, and I also do a fair amount of front-end work in Angular and React. I like owning a feature from the API design all the way to production.
+
+Since October 2023 I've been at Harvest Groupe in Paris, working on wealth management tools used by advisors across several banking networks. A few things I've worked on there:
+
+- Moving more than 40 microservices from our own servers to Kubernetes on AWS, across 5 environments, without any downtime
+- Fixing over 50 critical security vulnerabilities, then setting up GitOps with ArgoCD and adding security scans to our pipelines
+- Building an API observability platform from scratch, and ETL pipelines in Python, Airflow and Spark that feed our Power BI dashboards
+
+I studied software engineering at ENSIAS in Rabat, then did a year of applied AI for signal and image processing at Grenoble INP Phelma.
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Software Engineer | Harvest Groupe, Paris | 10/2023 to now |
+| Software Engineer Intern | NXP Semiconductors, Caen | 03/2023 to 09/2023 |
+| Data Engineer Intern | Brams, Deeplinq, Casablanca | 06/2022 to 08/2022 |
+| Full-Stack Developer Intern | Steps, Rabat | 06/2021 to 09/2021 |
+
+## Some of my projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [ClearBOM](https://github.com/ennachite/clearbom) | A command-line tool that generates CycloneDX SBOMs and checks dependency licenses | TypeScript, Node.js |
+| [leetcode-solutions](https://github.com/ennachite/leetcode-solutions) | My LeetCode solutions | Java |
+| [personal-blog-next-markdown](https://github.com/ennachite/personal-blog-next-markdown) | A personal blog written in Markdown | TypeScript, Next.js |
+| [ENSIAST Job](https://github.com/ennachite/ensiast_job) | A job and internship board for ENSIAS students | Java, J2EE |
+| [E-Health App T-Care](https://github.com/ennachite/E-Health-App-T-Care) | Lets doctors manage patient files and appointments | PHP |
+
+## Tech stack
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,bun,go,php,flask&perline=12" alt="Backend" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,html,css&perline=12" alt="Frontend" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,gitlab,githubactions,linux,git&perline=12" alt="Cloud & DevOps" />
+
+**Data & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,azure&perline=12" alt="Data & Databases" />
+
+I also use Apache Airflow, Spark, ArgoCD, SonarQube, Dependency-Track, Keycloak, LDAP and Power BI.
+
+## GitHub stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 </p>
-<br>
-<h2 align="left">Languages and Tools</h2>
-<ul>
-    <li>
-        <h3 align="left">Frontend Technologies:</h3>
-        <div>
-            <a href="https://www.w3.org/html/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://www.figma.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-            </a>
-            &emsp;
-         </div>
-      </li>
-      <li>
-         <h3>Backend Technologies:</h3>
-         <div>
-            <a href="https://www.php.net" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://laravel.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://docs.oracle.com/en/java/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="80" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://jakarta.ee/" target="_blank">
-            <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="Java EE" width="100" height="30"/>
-            </a>
-            <a href="https://spring.io/" target="_blank">
-            <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="100" height="30"/>
-            </a>
-            &emsp;
-            <a href="https://nodejs.org/" target="_blank">
-            <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="65" height="40"/>
-            </a>
-            <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
-            <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="nodejs" width="80" height="30"/>
-            </a>
-         </div>
-      </li>
-      <li>
-         <h3>Data Science</h3>
-         <div>
-            <a href="https://numpy.org/" target="_blank">
-            <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
-            </a>
-            <a href="https://pandas.pydata.org/" target="_blank">
-            <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
-            </a>
-            <a href="https://www.tensorflow.org/" target="_blank">
-            <img src="https://www.gstatic.com/devrel-devsite/prod/vc901a5242fa1f51622c87b6b540eca04c81baea0c307ecf1bb2dd2ea202bf099/tensorflow/images/lockup.svg" alt="Tensorflow" width="80" height="60"/>
-            </a>
-            <a href="https://pytorch.org/" target="_blank">
-            <img src="https://pytorch.org/assets/images/logo.svg" alt="Pytorch" width="80" height="60"/>
-            <a href="https://scikit-learn.org/stable/" target="_blank">
-            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Pytorch" width="80" height="30"/>
-            </a>
-            <a href="https://opencv.org/" target="_blank">
-            <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="30" height="40"/>
-            </a>
-            <a href="https://keras.io/" target="_blank">
-            <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="25"/>
-            </a>
-         </div>
-      </li>
-      <li>
-         <h3>Databases:</h3>
-         <div>
-            <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://www.postgresql.org/" target="_blank">
-            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank">
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://docs.mongodb.com/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" alt="MongoDB" width="110" height="30"/>
-            </a>
-            &emsp;
-         </div>
-      </li>
-      <li>
-         <h3>Others:</h3>
-         <div>
-            <a href="https://www.w3schools.com/c/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://git-scm.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://www.linux.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            </a>
-            &emsp;
-         </div>
-      </li>
-</ul>
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ennachite&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
